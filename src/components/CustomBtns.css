@@ -1,0 +1,24 @@
+.home-learn-buy {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	column-gap: 20px;
+}
+
+.home-learn-buy > div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.home-learn-buy > div > h3 {
+	font-size: 20px;
+	font-weight: 200;
+	letter-spacing: 1px;
+	margin: 0;
+}
+.home-learn-buy > div > svg {
+	font-size: medium;
+	font-weight: bold;
+	margin: 0;
+}

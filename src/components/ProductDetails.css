@@ -1,0 +1,47 @@
+.product-details {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.product-icon-title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+.product-icon-title > svg {
+	font-size: 50px;
+	margin-top: -8px;
+}
+
+.product-title {
+	font-size: 48px;
+	margin: 0;
+}
+
+.series-title {
+	margin: 0;
+	margin-top: -10px;
+}
+
+.product-subtitle {
+	margin: 0;
+	font-size: 30px;
+	font-weight: 200;
+	text-align: center;
+}
+
+.product-price-details {
+	font-size: 16px;
+	font-weight: 100;
+	letter-spacing: 0.5px;
+}
+
+.rupee-icon {
+	width: 14px;
+	height: 14px;
+}
