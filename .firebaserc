@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "clone-learning-d726f"
+  },
+  "targets": {
+    "clone-learning-d726f": {
+      "hosting": {
+        "amazon": [
+          "clone-learning-d726f"
+        ],
+        "apple": [
+          "apple-web-clone-c59da"
+        ]
+      }
+    }
+  }
+}
